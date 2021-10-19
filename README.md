@@ -18,7 +18,7 @@
   <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tiago-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Tiago-Sql" height="30" width="40" src="http://icons.iconseeker.com/png/fullsize/ivista-2-os-x-icons/database-3-1.png">
-  <img align="center" alt="Tiago-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Tiago-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
 
 ##
