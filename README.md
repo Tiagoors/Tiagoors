@@ -4,8 +4,8 @@
 - Studying React
 
 <div>
-  <a href="https://github.com/Kidanmi">
-  <img height="180em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=Kidanmi&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://github.com/Tiagoors">
+  <img height="180em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=Tiagoors&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ## Technologies
