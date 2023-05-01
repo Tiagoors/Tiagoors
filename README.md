@@ -1,7 +1,6 @@
 ## Tiago Rodrigues
 
-- Front and Back end developer
-- Studying React
+###
 
 <div>
   <a href="https://github.com/Tiagoors">
