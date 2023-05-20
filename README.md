@@ -1,27 +1,13 @@
-## Tiago Rodrigues
+# Tiago Rodrigues
 
-###
+Desenvolvedor Jr.
 
-<div>
-  <a href="https://github.com/Tiagoors">
-  <img height="180em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=Tiagoors&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+[![Instagram Badge](https://img.shields.io/badge/-@ctiagu-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://instagram.com/ctiagu)](https://instagram.com/ctiagu) 
+[![Linkedin Badge](https://img.shields.io/badge/-Tiago%20Rodrigues-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Tiagoors)](https://www.linkedin.com/in/Tiagoors) 
+[![Gmail Badge](https://img.shields.io/badge/-tiagoodev@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagoodev@gmail.com)](mailto:tiagoodev@gmail.com)
 
-## Technologies
-<div style="display: inline_block"><br>
-  <img align="center" alt="Tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Tiago-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
-  <img align="center" alt="Tiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Tiago-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tiago-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Tiago-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-</div>
+Passionate and enthusiastic about web development technologies.
 
-##
+"Nothing in the world can surpass persistence. Talent doesn't surpass it. There is nothing more common than talented failures. Genius doesn't surpass it. An unknown genius is practically a cliché. Education doesn't surpass it. The world is full of educated fools."
 
-<div>
-   <a href="https://www.instagram.com/ctiagu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:tiagoodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Tiagoors/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+"Persistence and determination are very powerful. Show that you don't need to be defeated by anything, that you have inner peace, incredible health, and strong and constant energy. If you try to achieve these things every day, the results will be obvious to you. As much as it may seem like a fantasy, it is up to you to create your own future."
