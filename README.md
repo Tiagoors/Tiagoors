@@ -8,6 +8,4 @@ Desenvolvedor Jr.
 
 Passionate and enthusiastic about web development technologies.
 
-"Nothing in the world can surpass persistence. Talent doesn't surpass it. There is nothing more common than talented failures. Genius doesn't surpass it. An unknown genius is practically a cliché. Education doesn't surpass it. The world is full of educated fools."
-
-"Persistence and determination are very powerful. Show that you don't need to be defeated by anything, that you have inner peace, incredible health, and strong and constant energy. If you try to achieve these things every day, the results will be obvious to you. As much as it may seem like a fantasy, it is up to you to create your own future."
+##### "Nothing in the world can surpass persistence. Talent doesn't surpass it. There is nothing more common than talented failures. Genius doesn't surpass it. An unknown genius is practically a cliché. Education doesn't surpass it. The world is full of educated fools."
